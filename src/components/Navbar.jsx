@@ -2,8 +2,8 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div className="bg-base-100  sticky top-0 z-50 mb-4 md:mb-6">
-            <div className="max-w-7xl mx-auto px-4">
+        <div className="bg-base-100  sticky top-0 z-50 ">
+            <div className="max-w-7xl mx-auto px-3">
                 <div className="navbar py-3">
                     <div className="flex-1 flex items-center">
 
@@ -40,7 +40,7 @@ const Navbar = () => {
                         </div>
 
                         {/* Logo */}
-                        <a className="ml-2 font-bold text-xl text-gray-800 cursor-pointer">
+                        <a className=" font-bold text-xl text-gray-800 cursor-pointer">
                             CS <span className="text-purple-600">Ticket System</span>
                         </a>
                     </div>

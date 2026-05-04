@@ -9,7 +9,9 @@ function App() {
   return (
     <>
       <Navbar></Navbar>
-      <Banner></Banner>
+      <div className='bg-gray-200'>
+ <Banner></Banner>
+      </div>
 
     </>
   )

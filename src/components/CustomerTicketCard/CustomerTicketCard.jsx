@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCircle } from '@fortawesome/free-solid-svg-icons';
 
 const CustomerTicketCard = ({ ticket }) => {
     if (!ticket) return null;
@@ -14,7 +16,8 @@ const CustomerTicketCard = ({ ticket }) => {
                     {title}
                 </h3>
 
-                <span className="text-xs px-2 py-1 rounded-full bg-green-100 text-green-600">
+                 <span className="text-xs px-2 py-1 rounded-full bg-green-100 text-green-600 flex items-center gap-1">
+                    <FontAwesomeIcon icon={faCircle} className="text-[8px]" />
                     {status}
                 </span>
             </div>

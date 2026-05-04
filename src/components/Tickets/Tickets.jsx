@@ -5,7 +5,7 @@ const Tickets = ({ fetchTicket }) => {
     const tickets = use(fetchTicket);
 
     return (
-        <div className="max-w-[1200px] mx-auto px-4 mt-8 pb-8">
+        <div className="max-w-[1280px] mx-auto px-4 mt-8 pb-8">
 
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
 

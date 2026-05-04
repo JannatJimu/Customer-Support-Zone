@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not working",
+    "description": "User unable to log in using correct credentials.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-01T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway error",
+    "description": "Transaction fails during checkout process.",
+    "customer": "Karim Ahmed",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-05-01T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "UI alignment issue",
+    "description": "Navbar items are misaligned on mobile devices.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-02T08:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Password reset email not sent",
+    "description": "Users are not receiving password reset emails.",
+    "customer": "Sabbir Hossain",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-05-02T09:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slow page load",
+    "description": "Dashboard takes too long to load.",
+    "customer": "Mim Akter",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-02T11:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Broken image links",
+    "description": "Several product images are not displaying.",
+    "customer": "Tanvir Hasan",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-05-02T14:20:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Search feature not returning results",
+    "description": "Search bar returns empty results for valid queries.",
+    "customer": "Faria Islam",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-05-03T07:35:00Z"
+  },
+  {
+    "id": 8,
+    "title": "App crashes on startup",
+    "description": "Mobile app crashes immediately after launch.",
+    "customer": "Shakil Khan",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2026-05-03T09:50:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect invoice calculation",
+    "description": "Tax is calculated incorrectly on invoices.",
+    "customer": "Lamia Chowdhury",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2026-05-03T11:25:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Notification not working",
+    "description": "Push notifications are not received by users.",
+    "customer": "Hasan Mahmud",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-03T13:10:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Profile update error",
+    "description": "Users cannot update their profile information.",
+    "customer": "Jannat Sultana",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-05-03T15:40:00Z"
+  },
+  {
+    "id": 12,
+    "title": "File upload failed",
+    "description": "Error occurs while uploading documents.",
+    "customer": "Rakibul Islam",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-05-03T17:05:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Session timeout too short",
+    "description": "Users are logged out too quickly.",
+    "customer": "Sumaiya Akter",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-05-04T08:20:00Z"
+  },
+  {
+    "id": 14,
+    "title": "API response delay",
+    "description": "Backend API responses are slow.",
+    "customer": "Mehedi Hasan",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-05-04T09:55:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Dark mode toggle not working",
+    "description": "Switching to dark mode has no effect.",
+    "customer": "Tania Rahman",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-05-04T11:30:00Z"
+  }
+]

@@ -73,7 +73,7 @@ const Tickets = ({
 
                     {/* IN Progress */}
                     <div className="bg-white p-4 rounded-lg shadow-sm">
-                        
+
                         <h3 className="font-semibold text-gray-700 mb-3">
                             In Progress ({cart.length})
                         </h3>

@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Tickets from './components/Tickets/Tickets'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
+import Footer from './components/Footer/Footer'
 
 function App() {
 
@@ -37,6 +38,7 @@ function App() {
             setRemovedIds={setRemovedIds}
           />
         </Suspense>
+        <Footer></Footer>
 
       </div>
 

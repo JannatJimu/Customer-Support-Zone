@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ResolveCounter = () => {
+const ResolveCounter = ({ count }) => {
     return (
         <div className="flex flex-col justify-center items-center 
         h-[140px] md:h-[180px] w-full rounded-xl text-white
@@ -11,8 +11,9 @@ const ResolveCounter = () => {
             </p>
 
             <h1 className="text-3xl md:text-4xl font-bold">
-                0
+                {count}
             </h1>
+
         </div>
     );
 };
